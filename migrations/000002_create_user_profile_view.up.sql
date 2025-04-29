@@ -1,0 +1,1 @@
+CREATE TABLE "user_profile_view" ("id" TEXT NOT NULL, "content" JSON NOT NULL, PRIMARY KEY ("id"));
